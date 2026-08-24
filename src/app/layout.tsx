@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   title: "MTM Armory | An Arsenal of Proof",
   description: "MT Media AI: An AI-First Venture Studio & Product Lab. The factory, not the service desk.",
   openGraph: {
-MTM Armory | Deployable Intelligence for Ambitious Brands
+title: "MTM Armory | Deployable Intelligence for Ambitious Brands",
     description: "A living showroom of MT Media AI's systems, tools, and results. Every component is a deployable weapon. Built by MTM. Powered by The Forge.",
     type: "website",
     url: "https://mtmarmory.vercel.app",
