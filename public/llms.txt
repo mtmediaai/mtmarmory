@@ -1,0 +1,28 @@
+# MTM Armory: llms.txt
+## Field Kit Micro-Utility Tools for MT Media AI
+
+## Organization
+- Name: MT Media AI (Modern Touch Media)
+- Canonical URL: https://mtmediaai.com
+- Organization Handle: @mtmediaai
+
+## Summary
+MTM Armory is the micro-utility application suite of MT Media AI. It hosts deterministic calculators, AI visibility diagnostics, margin simulators, and territory availability auditors engineered for The Invisible Elite (Estate-Level Service Providers).
+
+## Tools Hosted
+- AI Visibility Health Diagnostic
+- Sovereign Margin & LTV Simulator
+- Territory Exclusivity Auditor (Sequoia Doctrine)
+- Citation Decay Tracker
+
+## Target Audience
+- The Invisible Elite (Estate-Level Service Providers)
+- Ambitious SME Dynasty Builders ($1M–$15M+ annual revenue)
+- Luxury Real Estate Brokers & Estate Artisans
+
+## Canonical Documents
+- Repository: https://github.com/mtmediaai/mtmarmory
+- Apex Platform: https://mtmediaai.com
+- Diagnostic Satellite: https://i3.mtmediaai.com
+- Public Knowledge Base: https://github.com/mtmediaai/mtm-ai
+- ICP Taxonomy: https://github.com/mtmediaai/mtm-ai/blob/main/GLOSSARY.md
